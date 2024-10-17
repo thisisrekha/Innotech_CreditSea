@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Innotech_CreditSea/static/css/main.39b634b3.css",
+    "main.js": "/Innotech_CreditSea/static/js/main.8986a22c.js",
+    "index.html": "/Innotech_CreditSea/index.html",
+    "main.39b634b3.css.map": "/Innotech_CreditSea/static/css/main.39b634b3.css.map",
+    "main.8986a22c.js.map": "/Innotech_CreditSea/static/js/main.8986a22c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b634b3.css",
+    "static/js/main.8986a22c.js"
+  ]
+}
