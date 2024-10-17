@@ -1,0 +1,35 @@
+/* LoanApplicationForm.css */
+.loan-application-form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .MuiTextField-root {
+    margin-bottom: 20px;
+  }
+  
+  .submit-btn-container {
+    text-align: center;
+  }
+  
+  .submit-btn {
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  .submit-btn:hover {
+    background-color: #45a049;
+  }
+  
